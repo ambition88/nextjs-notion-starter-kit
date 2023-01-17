@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Ambition's Blog',
+  name: 'Ambition Blog',
   domain: 'https://www.notion.so/ambitiondai/Ambition-s-Blog-65eb76d373c0430cbdb8ed7cd386d4f3',
   author: 'Ambition',
 
